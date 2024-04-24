@@ -1,0 +1,25 @@
+body {
+background-color: cornflowerblue;
+
+}
+
+p{
+    color: black;
+
+}
+h1{
+
+font-size: 70px;
+
+}
+
+div{
+    background: pink;
+    width: 500px;
+    height: 500px;
+}
+
+span{
+    color: blue;
+    font-size: 40px;
+}
